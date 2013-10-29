@@ -95,8 +95,8 @@
       			"headline":"SiMDE",
       			"text":"<p>SiMDE is an organisation at UTC offering various <strong>IT services</strong> to other organisations. This includes web hosting, email, mailing lists or Active Directory.</p><p>I was a <strong>sysadmin</strong> at SiMDE and participated in building a new architecture using <strong>OpenVZ containers</strong>.</p>",
       			"asset": {
-      				"media":"img/payutc.png",
-      				"credit":"https://github.com/payutc"
+      				"media":"img/simde.png",
+              "thumbnail": "img/simde-logo.png"
       			}
     		  }
 		],
