@@ -1,0 +1,131 @@
+
+{
+	"timeline":
+	{
+		"type":"default",
+		"date": [
+		{
+			"startDate":"2005,04,02",
+			"endDate":"2006,04,30",
+			"headline":"graphisme.tk",
+			"text":"<p>graphisme.tk was one of my first public website. The project was realised in collaboration with a web designer met on the Internet.</p><p>My task was to write the HTML and CSS using Photoshop files, as well as the PHP/MySql allowing the website to run and be edited dynamically.</p>",
+			"asset": {
+				"media":"img/graphisme.png",
+				"thumbnail":"img/graphisme.png",
+				"credit":"http://graphisme.maclasse.eu"
+			}
+    },
+			{
+				"startDate":"2008,02,02",
+				"endDate":"2009,03,30",
+				"headline":"My Mobile Site",
+				"text":"<p>In 2008, Nokia developed a Mobile Web Server running on <b>Symbian smartphones</b>, exposing some of the phone's features to the web.</p><p>I wrote a <b>facebook application</b> allowing interaction with this software: viewing phone location, sending messages to the phone, displaying pictures on the phone...</p>",
+				"asset": {
+					"media":"img/mobsite.png",
+					"thumbnail":"img/mobsite-logo.png"
+				}
+		  },	
+  			{
+    			"startDate":"2010,01,01",
+    			"endDate":"2012,01,01",
+    			"headline":"Le Polar",
+    			"text":"<p>Le Polar is a student organization at UTC, offering services such as printing (from A4 to A0) as well as resale of computer accessories, stationery...</p><p>At Le Polar, I participated in migrating various software components to <b>one centralized website: accounting, point of sale, inventory</b>...</p>",
+    			"asset": {
+    				"media":"img/polar.png",
+    				"thumbnail":"img/polar-logo.png",
+    				"credit":"http://assos.utc.fr/polar"
+    			}
+  		  },
+  		  {
+      			"startDate":"2010,01,01",
+      			"endDate":"2012,01,01",
+      			"headline":"UTCoupe",
+      			"text":"<p>UTCoupe is a Student Organization participating in the <b>French Cup of Robotics</b>.",
+      			"asset": {
+      				"media":"img/polar.png",
+      				"thumbnail":"img/polar-logo.png",
+      				"credit":"http://assos.utc.fr/utcoupe"
+      			}
+    		  },
+      		{
+      			"startDate":"2011,03,01",
+      			"endDate":"2011,04,01",
+      			"headline":"Hanzi Training",
+      			"text":"<p>This <b>facebook game</b> was designed during my 6-month stay in Shanghai. Its aim is to practice your <b>Chinese characters</b>: it shows you words and asks you to write the pinyin corresponding to them, in a limited time.</p><p>This game was also published for the <b>BlackBerry Playbook</b> tablet, under the name <i>Chinese Characters</i>.</p>",
+      			"asset": {
+      				"media":"img/fbchina.png",
+      				"thumbnail":"img/fbchina-logo.png"
+      			}
+    		  },
+  			{
+    			"startDate":"2011,05,10",
+    			"endDate":"2012,07,01",
+    			"headline":"UTC Student Organizations homepage",
+    			"text":"<p>This homepage is used by <b>more than 100 student organizations</b> at UTC, in order to communicate with all the students through articles or events.</p><p>This project was realized using the <b>symfony</b> framework and involved an important number of programmers. It has spread over more than a year.</p>",
+    			"asset": {
+    				"media":"img/portail.png",
+    				"thumbnail":"img/portail.png",
+    				"credit":"http://assos.utc.fr"
+    			}
+  		  }
+  		  ,
+  			{
+    			"startDate":"2011,10,01",
+    			"endDate":"2011,11,01",
+    			"headline":"Ticketing system",
+    			"text":"<p>etuville, a UTC Student Organization, sets up a party with more than <b>2800 participants</b> every year.</p><p>During the 2011 edition, I was in charge of the ticketing system, which allowed guests to buy their ticket online and print it from a <b>generated PDF with a barcode</b>. Tickets were then checked at the entrance of the event using a software that I had designed.</p>",
+    			"asset": {
+    				"media":"img/gala.png",
+    				"thumbnail": "img/etuville-logo.png"
+    			}
+  		  }  ,
+    			{
+      			"startDate":"2012,01,01",
+      			"endDate":"2013,01,01",
+      			"headline":"payutc",
+      			"text":"<p>payutc is an <b>electronic payment system</b> that has been setup for all the Student Organizations at UTC. It allows student to top-up their account online using their Credit Card and then use the money in organizations by presenting their <b>RFID</b>-equipped student card.</p><p>payutc uses a collection of <b>Web Services</b> and all components are standalone: server, top-up service, point of sales... The project is <b>open-source</b> and available on github.</p>",
+      			"asset": {
+      				"media":"img/payutc.png",
+      				"credit":"https://github.com/payutc"
+      			}
+    		  },
+    			{
+      			"startDate":"2012,01,01",
+      			"endDate":"2013,01,01",
+      			"headline":"SiMDE",
+      			"text":"<p>payutc is an <b>electronic payment system</b> that has been setup for all the Student Organizations at UTC. It allows student to top-up their account online using their Credit Card and then use the money in organizations by presenting their <b>RFID</b>-equipped student card.</p><p>payutc uses a collection of <b>Web Services</b> and all components are standalone: server, top-up service, point of sales... The project is <b>open-source</b> and available on github.</p>",
+      			"asset": {
+      				"media":"img/payutc.png",
+      				"credit":"https://github.com/payutc"
+      			}
+    		  }
+		],
+		"era": [
+			{
+				"startDate":"2005,09,01",
+				"endDate":"2008,06,30",
+				"headline":"High School"
+			},
+			{
+				"startDate":"2009,09,01",
+				"endDate":"2014,09,01",
+				"headline":"University of Technology Compiegne"
+			},
+			{
+				"startDate":"2011,02,21",
+				"endDate":"2011,07,01",
+				"headline":"Shanghai University"
+			}
+		],
+		"chart": [
+			{
+				"startDate":"2011,12,10",
+				"endDate":"2013,12,31",
+				"headline":"Headline Goes Here",
+				"value":"28"
+			}
+			
+		]
+		
+	}
+}

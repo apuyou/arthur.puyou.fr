@@ -1,0 +1,68 @@
+body {
+padding-top: 60px;
+font-family: 'Ubuntu', sans-serif;
+}
+.socials {
+font-size: 1.4em;
+}
+
+#intro img {
+border: 1px solid #eeeeee;
+padding: 5px;
+width: 150px;
+height: 150px;
+}
+#intro {
+text-align: right;
+}
+.present {
+padding-top: 50px;
+font-size: 1.4em;
+}
+h2 {
+font-size: 1.6em;
+}
+h3 {
+font-size: 1.4em;
+}
+.nav big {
+font-size: 1.4em;
+}
+
+/* Tag cloud */
+.tags ul{
+margin:1em 0;
+padding:.5em 10px;
+text-align:center;
+}
+.tags li{
+margin:0;
+padding:0;
+list-style:none;
+display:inline;
+text-decoration:none;
+padding:0 2px;	
+}
+.tag1{
+font-size:100%;
+color:#bbb;
+}
+.tag2{
+font-size:120%;
+color:#999;
+}
+.tag3{
+font-size:140%;
+color:#666;
+}
+.tag4{
+font-size:160%;
+color:#333;
+}
+.tag5{
+font-size:180%;
+color:#000;
+}
+.print {
+  display:none;
+}
