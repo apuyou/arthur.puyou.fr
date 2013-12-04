@@ -86,6 +86,7 @@
       			"text":"<p>payutc is an <b>electronic payment system</b> that has been setup for all the Student Organisations at UTC. It allows student to top-up their account online using their Credit Card and then use the money in organisations by presenting their <b>RFID</b> student card.</p><p>payutc uses a collection of <b>Web Services</b> and all components are standalone: server, top-up service, point of sales... The project is <b>open-source</b> and available on <a href=\"https://github.com/payutc\" target=\"_blank\" title=\"payutc on Github\">Github</a>.</p>",
       			"asset": {
       				"media":"img/payutc.png",
+      				"thumbnail":"img/payutc-logo.png",
       				"credit":"https://github.com/payutc"
       			}
     		  },
